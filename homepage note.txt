@@ -1,0 +1,43 @@
+<html>
+<title>form-homepage</title>
+<body background="bgimage.png">
+<center><img src="logo.png"height="200"width="300">
+<h1><center><font style = "color:white;size:16px;face:arial">WELCOME</font></h1> 
+<h1><center><font style = "color:white;size:16px;face:arial">to our short form about YOU! in this form we will talk about all the things you like or interested in. 
+<center>Click the button below and you'll be directed to the actual form.
+<center>Thank You for visiting!</font></h1>
+<center><head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 24px 100px;
+  text-align: center;
+display: inline-block;
+  font-size: 28px;
+  margin: 16px 12px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #0492C2;
+  color: black;
+  border: 8px solid  #0492C2;
+}
+
+.button1:hover {
+  background-color: #2C3E4C;
+  color: #48AAAD;
+}
+
+.button1 {border-radius: 12px}
+
+</style>
+</head>
+<body>
+
+<button class="button button1"><a href="form.html"><h1><font color="white">FORM</font></a></button>
+
+</body>
+</html>
